@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "@convex-dev/auth": "^0.0.80",
+    "@types/animejs": "^3.1.13",
     "@types/react-router-dom": "^5.3.3",
+    "animejs": "^4.2.2",
     "clsx": "^2.1.1",
     "convex": "^1.24.2",
     "react": "^19.0.0",
